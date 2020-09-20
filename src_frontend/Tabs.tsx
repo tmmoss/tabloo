@@ -9,8 +9,8 @@ export function Tabs(props: {
     <nav class="ui-navbar">
 
       <div class="ui-sidebar-placeholder">
-        <a class="ui-navbar-logo" href="https://github.com/bluenote10/tabloo">
-          tabloo
+        <a class="ui-navbar-logo" href="https://cyberprotection.com">
+          CPS
         </a>
       </div>
 
